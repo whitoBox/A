@@ -1,0 +1,1 @@
+This repository is an exercise repository for learning distributed version management systems git/github, Linux commands, and more in open-source programming classes in 2024.
